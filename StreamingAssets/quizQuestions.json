@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "questionText": "What is 2 + 2?",
+      "options": ["3", "4", "5"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "What color is the sky?",
+      "options": ["Green", "Blue", "Red"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "How many sides does a triangle have?",
+      "options": ["2", "3", "4"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "What is the capital of France?",
+      "options": ["London", "Paris", "Berlin"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "What is 10 - 5?",
+      "options": ["3", "5", "7"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which planet is closest to the Sun?",
+      "options": ["Venus", "Mercury", "Earth"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "How many hours in a day?",
+      "options": ["12", "24", "48"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "What is 3 x 3?",
+      "options": ["6", "9", "12"],
+      "correctAnswerIndex": 1
+    }
+  ]
+}
